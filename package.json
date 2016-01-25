@@ -1,0 +1,16 @@
+{
+  "name": "reacttutorialpoint",
+  "version": "1.0.0",
+  "description": "react app",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^0.14.6",
+    "react-dom": "^0.14.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "author": "Tevinthuku",
+  "license": "MIT"
+}
